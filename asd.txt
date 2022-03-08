@@ -1,3 +1,4 @@
-a
-assasa
-
+new asd.txt
+maybe it will be deleted
+third text
+new text by master
