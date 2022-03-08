@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 new asd.txt
 maybe it will be deleted
 third text
 new text by master
+=======
+power overwhelming
+assasa
+second texta>>>>> 39a25e7d346ebb549050a341cc96f2c418dd9e6c
